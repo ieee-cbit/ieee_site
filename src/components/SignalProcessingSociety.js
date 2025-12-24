@@ -67,7 +67,7 @@ const SignalProcessingSociety = ({ imgs, num }) => {
       </section>
       <section className="core-team-section" id="coreteam">
         <h2 className="section-heading">
-          Leadership Team 2024-2025
+          Society Heads 2024-2025
         </h2>
         <p className="section-description-text">
           Meet the dedicated members of our Signal Processing Society's Team

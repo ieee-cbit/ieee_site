@@ -19,11 +19,6 @@ const teamMembers = [
     image: "core-team/secret.png",
   },
   {
-    name: "Bob Johnson",
-    role: "Marketing Director",
-    image: "core-team/tress.png",
-  },
-  {
     name: "John Doe",
     role: "Co-Founder",
     image: "tech-team/2.png",

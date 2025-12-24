@@ -70,7 +70,7 @@ const ComputerSociety = ({ imgs, num }) => {
       {/* Leadership Team Section (replaces CoreTeam for Chair/Vice Chair) */}
       <section className="core-team-section" id="coreteam">
         <h2 className="section-heading">
-          Leadership Team 2024-2025
+          Society Heads 2024-2025
         </h2>
         
         <p className="section-description-text">
